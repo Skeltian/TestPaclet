@@ -1,0 +1,1 @@
+PacletSite[Paclet["Name" -> "TestPaclet", "Version" -> "0.0.1", "Creator" -> "Brandon <bsutton10294@gmail.com>", "Description" -> "A paclet for testing purposes.", "Extensions" -> {{"Kernel", "Root" -> ".", "Context" -> {"TestPaclet`"}}}]]
